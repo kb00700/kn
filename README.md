@@ -1,0 +1,2 @@
+# kn
+create vmware
